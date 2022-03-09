@@ -97,7 +97,7 @@ If you use this code for your publications, please cite it as:
         author = "Ruslan Havrylov",
         title  = "DeFi Yield Farming App",
         year   = "2021",
-        url    = "https://github.com/ahmetozlu/defi_yield_farming"
+        url    = "https://github.com/TigerRuslan/Defi_Yield_Farming"
     }
 
 ## References
