@@ -94,7 +94,7 @@ Demo of the DApp with the screenshots can be found on [this wiki page](https://g
 If you use this code for your publications, please cite it as:
 
     @ONLINE{
-        author = "Ahmet Özlü",
+        author = "Ruslan Havrylov",
         title  = "DeFi Yield Farming App",
         year   = "2021",
         url    = "https://github.com/ahmetozlu/defi_yield_farming"
@@ -104,7 +104,7 @@ If you use this code for your publications, please cite it as:
 This project was built on top of **Dapp University** implementation, [here](https://github.com/dappuniversity/defi_tutorial) you can find more details.
 
 ## Author
-Ahmet Özlü
+Ruslan Havrylov
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
